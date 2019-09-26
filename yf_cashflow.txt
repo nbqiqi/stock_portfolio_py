@@ -1,0 +1,24 @@
+                                                    9/29/2018  9/30/2017  9/24/2016  9/26/2015
+                                                                                              
+Net Income                                           59531000   48351000   45687000   53394000
+Operating Activities, Cash Flows Provided By or...          -          -          -          -
+Depreciation                                         10903000   10157000   10505000   11257000
+Adjustments To Net Income                           -27694000   10640000    9634000    5353000
+Changes In Accounts Receivables                      -5322000   -2093000     527000     417000
+Changes In Liabilities                                9131000    8340000     563000    6043000
+Changes In Inventories                                 828000   -2723000     217000    -238000
+Changes In Other Operating Activities                30057000   -8447000    -902000    5040000
+Total Cash Flow From Operating Activities            77434000   64225000   66231000   81266000
+Investing Activities, Cash Flows Provided By or...          -          -          -          -
+Capital Expenditure                                 -13313000  -12451000  -12734000  -11247000
+Investments                                          30845000  -33542000  -32022000  -44417000
+Other Cash flows from Investing Activities            -745000    -124000    -924000     -26000
+Total Cash Flows From Investing Activities           16066000  -46446000  -45977000  -56274000
+Financing Activities, Cash Flows Provided By or...          -          -          -          -
+Dividends Paid                                      -13712000  -12769000  -12150000  -11561000
+Sale Purchase of Stock                                    NaN        NaN        NaN        NaN
+Net Borrowings                                         432000   29014000   22057000   29305000
+Other Cash Flows from Financing Activities                NaN        NaN        NaN     749000
+Total Cash Flows From Financing Activities          -87876000  -17974000  -20890000  -17716000
+Effect Of Exchange Rate Changes                           NaN        NaN        NaN        NaN
+Change In Cash and Cash Equivalents                   5624000    -195000    -636000    7276000

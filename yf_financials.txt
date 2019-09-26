@@ -1,0 +1,29 @@
+                                        9/29/2018  9/30/2017  9/24/2016  9/26/2015
+                                                                                  
+Total Revenue                           265595000  229234000  215639000  233715000
+Cost of Revenue                         163756000  141048000  131376000  140089000
+Gross Profit                            101839000   88186000   84263000   93626000
+Operating Expenses                              -          -          -          -
+Research Development                     14236000   11581000   10045000    8067000
+Selling General and Administrative       16705000   15261000   14194000   14329000
+Non Recurring                                 NaN        NaN        NaN        NaN
+Others                                        NaN        NaN        NaN        NaN
+Total Operating Expenses                194697000  167890000  155615000  162485000
+Operating Income or Loss                 70898000   61344000   60024000   71230000
+Income from Continuing Operations               -          -          -          -
+Total Other Income/Expenses Net           2005000    2745000    1348000    1285000
+Earnings Before Interest and Taxes       70898000   61344000   60024000   71230000
+Interest Expense                         -3240000   -2323000   -1456000    -733000
+Income Before Tax                        72903000   64089000   61372000   72515000
+Income Tax Expense                       13372000   15738000   15685000   19121000
+Minority Interest                             NaN        NaN        NaN        NaN
+Net Income From Continuing Ops           59531000   48351000   45687000   53394000
+Non-recurring Events                            -          -          -          -
+Discontinued Operations                       NaN        NaN        NaN        NaN
+Extraordinary Items                           NaN        NaN        NaN        NaN
+Effect Of Accounting Changes                  NaN        NaN        NaN        NaN
+Other Items                                   NaN        NaN        NaN        NaN
+Net Income                                      -          -          -          -
+Net Income                                      -          -          -          -
+Preferred Stock And Other Adjustments         NaN        NaN        NaN        NaN
+Net Income Applicable To Common Shares   59531000   48351000   45687000   53394000

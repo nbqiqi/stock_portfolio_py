@@ -1,0 +1,39 @@
+                                      9/29/2018  9/30/2017  9/24/2016  9/26/2015
+                                                                                
+Current Assets                                -          -          -          -
+Cash And Cash Equivalents              25913000   20289000   20484000   21120000
+Short Term Investments                 40388000   53892000   46671000   20481000
+Net Receivables                        48995000   35673000   29299000   30343000
+Inventory                               3956000    4855000    2132000    2349000
+Other Current Assets                   12087000   13936000    8283000   14691000
+Total Current Assets                  131339000  128645000  106869000   89378000
+Long Term Investments                 170799000  194714000  170430000  164065000
+Property, plant and equipment          41304000   33783000   27010000   22471000
+Goodwill                                    NaN        NaN    5414000    5116000
+Intangible Assets                           NaN        NaN    3206000    3893000
+Accumulated Amortization                    NaN        NaN        NaN        NaN
+Other Assets                           22283000   18177000    8757000    5422000
+Deferred Long Term Asset Charges            NaN        NaN        NaN        NaN
+Total Assets                          365725000  375319000  321686000  290345000
+Current Liabilities                           -          -          -          -
+Accounts Payable                       55888000   44242000   37294000   35490000
+Short/Current Long Term Debt            8784000    6496000    3500000    2513000
+Other Current Liabilities              40230000   38099000    8243000   10939000
+Total Current Liabilities             116866000  100814000   79006000   80610000
+Long Term Debt                         93735000   97207000   75427000   53329000
+Other Liabilities                      47977000   43251000   39004000   37051000
+Deferred Long Term Liability Charges        NaN        NaN        NaN        NaN
+Minority Interest                           NaN        NaN        NaN        NaN
+Negative Goodwill                           NaN        NaN        NaN        NaN
+Total Liabilities                     258578000  241272000  193437000  170990000
+Stockholders' Equity                          -          -          -          -
+Misc. Stocks Options Warrants               NaN        NaN        NaN        NaN
+Redeemable Preferred Stock                  NaN        NaN        NaN        NaN
+Preferred Stock                             NaN        NaN        NaN        NaN
+Common Stock                           40201000   35867000   31251000   27416000
+Retained Earnings                      70400000   98330000   96364000   92284000
+Treasury Stock                         -3454000    -150000     634000    -345000
+Capital Surplus                             NaN        NaN        NaN        NaN
+Other Stockholder Equity               -3454000    -150000     634000    -345000
+Total stockholders' equity            107147000  134047000  128249000  119355000
+Net Tangible Assets                   107147000  134047000  119629000  110346000
